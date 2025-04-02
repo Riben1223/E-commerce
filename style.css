@@ -72,6 +72,12 @@
     .right-box{
         padding: 20px;
     }   
+    .login-logo{
+        display: none !important;
+    }
+    .login-title{
+        text-align: center ;
+    }
 }
 
 
